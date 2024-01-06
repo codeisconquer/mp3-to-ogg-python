@@ -4,3 +4,6 @@ venv
 *.iml
 *.mp3
 *.ogg
+build
+dist
+*.spec
